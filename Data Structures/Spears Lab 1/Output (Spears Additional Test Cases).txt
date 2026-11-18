@@ -1,0 +1,8 @@
+Error: Please ensure input is in Prefix notation
+Error: Please ensure input is in Prefix notation
+Error: Invalid Expression (Too Many Operators)
+Error: Please ensure input is in Prefix notation
+aB+
+Error: Order of Operations can be derived from prefix organization, please exclude parenthesis.
+Error: Order of Operations can be derived from prefix organization, please exclude parenthesis.
+Error: Order of Operations can be derived from prefix organization, please exclude parenthesis.

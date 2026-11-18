@@ -1,0 +1,8 @@
+A + B - C
+ABC-+
++++++++
+AAAAAAA
++aB
++C(-BA)
++A(B
++A)B
