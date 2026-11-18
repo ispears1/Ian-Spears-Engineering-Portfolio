@@ -1,0 +1,3 @@
+Error: Huffman Codes should not contain letters
+SALLYSELLSSEASHELLSBYTHESEASHORE
+Error: Unrecognized character

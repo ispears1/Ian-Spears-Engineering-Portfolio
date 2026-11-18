@@ -1,0 +1,3 @@
+Error: Please ensure the input is not a Huffman Code. Otherwise, this program does not contain codes for numbers.
+Error: Please ensure the input is not a Huffman Code. Otherwise, this program does not contain codes for numbers.
+01011001010110011111011011
