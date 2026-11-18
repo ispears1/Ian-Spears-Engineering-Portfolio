@@ -1,0 +1,9 @@
+Error: Please ensure expression is in prefix notation.
+Error: Improper statement. Please check number of operands and operators.
+Error: Please ensure expression is in prefix notation.
+Error: Please ensure expression is in prefix notation.
+AB+C-
+ab+c-
+Error: Prefix notation can be used to determine order of operations; please exlude parenthesis.
+Error: Prefix notation can be used to determine order of operations; please exlude parenthesis.
+Error: Prefix notation can be used to determine order of operations; please exlude parenthesis.

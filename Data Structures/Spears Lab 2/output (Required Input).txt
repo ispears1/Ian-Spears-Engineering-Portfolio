@@ -1,0 +1,11 @@
+AB+C-
+ABC+-
+AB-C+DEF-+$
+ABCDE-+$*EF*-
+ABC+*CBA-+*
+Error: Improper statement. Please check number of operands and operators.
+Error: Improper statement. Please check number of operands and operators.
+Error: Improper statement. Please check number of operands and operators.
+ABC+$CBA-+*
+Error: Please do not use digits.
+Error: Please use '$' instead of '^'.
